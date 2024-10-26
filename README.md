@@ -6,4 +6,4 @@
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: dispite my name, i do not code in java. i apologize for this false advertising.
 
-- [![javajuicer's GitHub stats](https://github-readme-stats.vercel.app/api?username=javajuicer)](https://github.com/anuraghazra/github-readme-stats)
+[![javajuicer's GitHub stats](https://github-readme-stats.vercel.app/api?username=javajuicer)](https://github.com/anuraghazra/github-readme-stats)
