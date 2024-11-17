@@ -7,3 +7,4 @@
 - ⚡ Fun fact: no
 
 [![hallow's GitHub stats](https://github-readme-stats.vercel.app/api?username=hallowxd)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hallowxd&layout=compact&border_radius=20&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff&hide_border=true)
